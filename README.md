@@ -1,8 +1,10 @@
 **The Machine Learning Master Project: From Energy to Healthcare**
+
 Welcome to my Machine Learning portfolio! This repository contains a collection of end-to-end data science projects. I have explored both Regression (predicting numbers) and Classification (predicting categories) using real-world datasets.
 
 
 **Executive Summary**
+
 In this journey, I acted as a Lead Data Scientist across three different industries:
 
 Energy Sector: Predicting Power Plant output.
@@ -13,6 +15,7 @@ Healthcare: Diagnosing Breast Cancer.
 
 
 **Project 1: Power Plant Energy Prediction (Regression)**
+
 The Mission: Predict the net hourly electrical energy output of a power plant based on environmental factors like Temperature, Humidity, and Pressure.
 
 Models Tested: Linear Regression, Polynomial Regression, Support Vector Regression (SVR), Decision Tree, and Random Forest.
@@ -25,6 +28,7 @@ Layman's Lesson: I learned that many small guesses (trees) averaged together are
 
 
 **Project 2: The SUV Launch Campaign (Classification)**
+
 The Mission: A car company is launching a new luxury SUV. I had to predict which customers would actually buy it based on their Age and Salary.
 
 Models Tested: Logistic Regression, K-NN, SVM, Kernel SVM, Naive Bayes, Decision Tree, and Random Forest.
@@ -37,9 +41,11 @@ Layman's Lesson: Some models draw straight lines to separate people, while other
 
 
 **Project 3: Breast Cancer Diagnosis (The Mission for Safety)**
+
 The Mission: Classify tumors as Benign (Safe) or Malignant (Cancerous) using clinical data.
 
 🏆 **The Clinical Leaderboard**
+
 I compared my models not just on accuracy, but on Safety (how many sick people did we miss?).
 
 🥇 **Kernel SVM (The Best Overall)**

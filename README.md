@@ -80,6 +80,6 @@ Missed Cases (False Negatives): 6
 
 The Verdict: Usually a powerhouse, the Random Forest was slightly less sensitive on this specific dataset. It showed that sometimes simpler, math-based models can outperform complex "forests" in clinical settings.
 
-#What I Achieved#: I prioritized the Confusion Matrix over simple accuracy. I learned that in medicine, it is better to have a "False Alarm" than to miss a single sick patient.
+**What I Achieved**: I prioritized the Confusion Matrix over simple accuracy. I learned that in medicine, it is better to have a "False Alarm" than to miss a single sick patient.
 
-#Layman's Lesson#: The Naive Bayes model is like a very cautious doctor—it might be a bit more worried than others, but it rarely misses a problem.
+**Layman's Lesson**: The Naive Bayes model is like a very cautious doctor—it might be a bit more worried than others, but it rarely misses a problem.

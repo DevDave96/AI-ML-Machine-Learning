@@ -48,9 +48,9 @@ The Mission: Classify tumors as Benign (Safe) or Malignant (Cancerous) using cli
 
 I compared my models not just on accuracy, but on Safety (how many sick people did we miss?).
 
-🥇 **Kernel SVM (The Best Overall)**
+🥇 **Kernel SVM and Decision tree (The Best Overall)**
 
-Accuracy: 95.3%
+Accuracy: 95.3% and 96%
 
 Missed Cases (False Negatives): 3
 

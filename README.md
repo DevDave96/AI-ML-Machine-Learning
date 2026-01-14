@@ -1,3 +1,5 @@
+**SUPERVISED MACHINE LEARNING**
+
 **The Machine Learning Master Project: From Energy to Healthcare**
 
 Welcome to my Machine Learning portfolio! This repository contains a collection of end-to-end data science projects. I have explored both Regression (predicting numbers) and Classification (predicting categories) using real-world datasets.

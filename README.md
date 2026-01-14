@@ -89,6 +89,9 @@ The Verdict: Usually a powerhouse, the Random Forest was slightly less sensitive
 
 
 
+
+
+
 **UNSUPERVISED MACHINE LEARNING**
 
 Strategic Report: Mall Customer SegmentationFramework: Unsupervised Machine Learning (K-Means Clustering)Goal: Optimize marketing ROI by identifying distinct consumer behavioral patterns.

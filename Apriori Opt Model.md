@@ -33,9 +33,8 @@ $$\text{Support}(A \rightarrow B) = \frac{\text{Transactions with both A and B}}
 
 We set a minimum support of 0.003, targeting products that appear consistently enough to warrant a strategic business investment.
 
-Confidence: The Predictive ProbabilityConfidence measures the reliability of the link. If a customer buys $A$, what is the percentage chance they buy
-
-$B$?$$\text{Confidence}(A \rightarrow B) = \frac{\text{Support}(A \cup B)}{\text{Support}(A)}$$
+Confidence: The Predictive ProbabilityConfidence measures the reliability of the link. If a customer buys $A$, what is the percentage chance they buy $B$?
+$$\text{Confidence}(A \rightarrow B) = \frac{\text{Support}(A \cup B)}{\text{Support}(A)}$$
 
 We maintained a minimum confidence of 0.2 (20%), ensuring our rules have a strong predictive foundation.
 

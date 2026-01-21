@@ -1,4 +1,4 @@
-Case Study: Dynamic Yield Optimization via Bayesian Reinforcement Learning
+**Case Study: Dynamic Yield Optimization via Bayesian Reinforcement Learning**
 
 **Executive Summary**
 In high-velocity digital environments, traditional A/B testing (Frequentist approach) suffers from "opportunity cost"—revenue lost while testing underperforming variants. This project implements an Adaptive Heuristic using Thompson Sampling to solve the Multi-Armed Bandit (MAB) problem. By leveraging Bayesian Inference, the system dynamically reallocates traffic to high-performing assets in real-time, significantly reducing "regret" and maximizing Cumulative Expected Reward.
